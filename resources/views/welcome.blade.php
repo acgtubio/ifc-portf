@@ -19,7 +19,7 @@
             'resources/js/app.js'
         ])
     </head>
-    <body class="font-sans antialiased dark:bg-neutral-900 dark:text-white/50">
+    <body class="font-sans antialiased bg-neutral-900 text-white/50">
         <main class="max-w-7xl mx-auto pt-12">
             <section class="[&>*]:text-center">
                 <h1 class="md:text-7xl text-white font-extrabold">Eyd.sh</h1>
